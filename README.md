@@ -1,2 +1,3 @@
 # analise_modelagem_sistemas
 CTS Em Análise e Desenvolvimento de Sistemas Ahanguera Prof Nicolas Vogiantzis
+GRUPO: ALEXANDRE DA SILVA SANTOS, FELIPE CASALUNGA, JOÃO PEDRO SANTOS SILVA, JHONATA VIANA DA SILVA, NICOLAS MACIEL, ALEXANDRE ALMEIDA BUENO
